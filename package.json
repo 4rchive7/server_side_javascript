@@ -7,5 +7,17 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4rchive7/server_side_javascript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/4rchive7/server_side_javascript/issues"
+  },
+  "homepage": "https://github.com/4rchive7/server_side_javascript#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "underscore": "^1.11.0"
+  }
 }
