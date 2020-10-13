@@ -17,7 +17,11 @@
   },
   "homepage": "https://github.com/4rchive7/server_side_javascript#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
+    "constantinople": "^3.1.1",
     "express": "^4.17.1",
+    "jade": "^1.11.0",
+    "supervisor": "^0.12.0",
     "underscore": "^1.11.0"
   }
 }
